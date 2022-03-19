@@ -1,0 +1,2 @@
+var rock, paper, scissors;
+
